@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.result {
+  width: 300px;
+  height: 36px;
+  background-color: grey;
+  border-radius: 2px;
+}
+
+.result p {
+  float: left;
+}
+
+.btn {
+  margin: 10px 10px 0 5px;
+}
+
+.calculator {
+  margin-top: 40px;
+}
